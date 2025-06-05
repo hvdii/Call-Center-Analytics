@@ -1,0 +1,9 @@
+bienvenido,1
+con,1
+el,1
+fatal,1
+hola,1
+problema,1
+servicio,1
+tengo,1
+un,1

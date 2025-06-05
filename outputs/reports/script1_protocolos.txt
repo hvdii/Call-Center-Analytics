@@ -1,0 +1,6 @@
+=== Reporte de Verificación de Protocolos ===
+
+Fase de saludo: OK (Palabra encontrada: 'hola')
+Identificación del cliente: Faltante
+Uso de palabras rudas: Ninguna detectada
+Despedida amable: Faltante

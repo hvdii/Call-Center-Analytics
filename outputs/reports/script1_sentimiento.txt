@@ -1,0 +1,12 @@
+=== Reporte de Análisis de Sentimiento ===
+
+Sentimiento general: Negativo (-4)
+Palabras positivas: 0
+Palabras negativas: 2
+Palabra más negativa: fatal, -3
+
+Detalle palabras positivas:
+
+Detalle palabras negativas:
+- fatal: -3
+- problema: -1
